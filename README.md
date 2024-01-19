@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ronniesingh4
+- 👋 Hi, I’m web developer 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
+- 🌱 I am working as freelancer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
